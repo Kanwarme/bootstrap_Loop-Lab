@@ -22,5 +22,5 @@ This is a one-page application with the following features
  - Explore Section
  - Create Section
  - Share Section
- - Contact Us
+ - Contact Us.
 
