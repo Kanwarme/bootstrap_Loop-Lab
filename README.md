@@ -15,7 +15,7 @@ This is a one-page application with the following features
   - Scroll Spy
   - Modal
 - Custom Style Sheet
-- Layout
+## Layout
  - Navbar
  - Home Section
  - Sign Up Form
